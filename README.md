@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at <a href="https://sprinteins.com" target="blank">SprintEins</a>
 
-- 🌱 **Go and C#** is what I am currently learning
+- 🌱 **C#** is what I am currently learning
 
 - 📫 How to reach me **alvarengasergio@hotmail.co.uk**
 
