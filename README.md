@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at <a href="https://sprinteins.com" target="blank">SprintEins</a>
 
-- 🌱 **C#** is what I am currently learning
+- 🌱 Currently reading: Building Large Scalable Web Apps by Addy Osmani & Hassan Djirdeh
 
 - 📫 How to reach me **alvarengasergio@hotmail.co.uk**
 
