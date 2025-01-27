@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at <a href="https://sprinteins.com" target="blank">SprintEins</a>
 
-- 🌱 Currently reading: Building Large Scalable Web Apps by Addy Osmani & Hassan Djirdeh
+- 🌱 Currently reading: Never Split the difference
 
-- 📫 How to reach me **alvarengasergio@hotmail.co.uk**
+- 📫 You can reach me via the form on the following website **www.sergioalvarenga.com**
 
-- 💬 Ask me about **Clean Code, Frontend, Javascript, React, Vue, Java**
+- 💬 We can chat about **Clean Code, Programming, Aviation, Chess, Sports, etc...**
 
 - ⚡ Fun fact **your heart can sync to the rhythm when you listen to music.**
 
