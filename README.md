@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, it's Sergio</h1>
-<h3 align="center">A software developer whose heart beats faster for frontend technologies.</h3>
+<h3 align="center">A fullstack software developer whose heart beats faster for frontend technologies.</h3>
 
 
 
 - 🔭 I’m currently working at <a href="https://sprinteins.com" target="blank">SprintEins</a>
 
 - 🌱 Currently reading: Never Split the difference
-
-- 📫 You can reach me via the form on the following website **www.sergioalvarenga.com**
 
 - 💬 We can chat about **Clean Code, Programming, Aviation, Chess, Sports, etc...**
 
