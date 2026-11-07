@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+<title>Sergio Alvarenga, fullstack developer</title>
+<g font-size="10" opacity="0.8">
+<text x="10" y="20" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                             ::                             </text>
+<text x="10" y="32" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                            :###                            </text>
+<text x="10" y="44" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                            #..#                            </text>
+<text x="10" y="56" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                            ####:                           </text>
+<text x="10" y="68" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           :####:                           </text>
+<text x="10" y="80" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="92" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="104" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="116" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="128" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="140" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="152" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                          :######=                          </text>
+<text x="10" y="164" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                       :===######====:                      </text>
+<text x="10" y="176" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">               @@   =======######=======:  @@               </text>
+<text x="10" y="188" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">              @@@@=========######=========@@@@              </text>
+<text x="10" y="200" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">             :@@@@=========######=========@@@@:             </text>
+<text x="10" y="212" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">          :===@@@@=========######=========@@@@===:          </text>
+<text x="10" y="224" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">       :======@@@@=========######=========@@@@======:       </text>
+<text x="10" y="236" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">    :=================::   ######   ::=================:    </text>
+<text x="10" y="248" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">  =============::          ######          ::=============  </text>
+<text x="10" y="260" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">  =======::                ######                ::=======  </text>
+<text x="10" y="272" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">  ::                       ######                       ::  </text>
+<text x="10" y="284" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="296" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                           ######                           </text>
+<text x="10" y="308" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                         :==####==:                         </text>
+<text x="10" y="320" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                     ::=====####======:                     </text>
+<text x="10" y="332" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                  :=========####=========:                  </text>
+<text x="10" y="344" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">               ==========:: :### ::==========               </text>
+<text x="10" y="356" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">               ====:         ##         ::===               </text>
+<text x="10" y="368" textLength="360" lengthAdjust="spacing" xml:space="preserve" fill="#24292f">                                                            </text>
+</g>
+<g font-size="13" transform="translate(0 4)">
+<text x="400" y="48" font-size="15" font-weight="700"><tspan fill="#0969da">sergio</tspan><tspan fill="#24292f">@</tspan><tspan fill="#0969da">salvar3nga</tspan></text>
+<text x="400" y="64" fill="#8c959f">----------------------------------------</text>
+<text y="88"><tspan x="400" fill="#bc4c00">Callsign</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">Sergio Alvarenga</tspan></text>
+<text y="112"><tspan x="400" fill="#bc4c00">Base</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">Germany</tspan></text>
+<text y="136"><tspan x="400" fill="#bc4c00">Role</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">Fullstack dev, frontend-leaning</tspan></text>
+<text y="160"><tspan x="400" fill="#bc4c00">Airline</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">SprintEins</tspan></text>
+<text y="196"><tspan x="400" fill="#bc4c00">Type ratings</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">TypeScript, Vue, React, Node.js</tspan></text>
+<text y="220"><tspan x="400" fill="#bc4c00">Also cleared</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">C#, Java, Docker, PostgreSQL</tspan></text>
+<text y="244"><tspan x="400" fill="#bc4c00">Flight log</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">OpenSCD plugins for substations</tspan></text>
+<text y="280"><tspan x="400" fill="#bc4c00">Spoken</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">PT, EN, DE, FR, ES, JA (ish)</tspan></text>
+<text y="304"><tspan x="400" fill="#bc4c00">Off duty</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">chess, geography, photography</tspan></text>
+<text y="328"><tspan x="400" fill="#bc4c00">Reading</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">Never Split the Difference</tspan></text>
+<text y="364"><tspan x="400" fill="#bc4c00">Contact</tspan><tspan x="528" fill="#8c959f">:</tspan><tspan x="540" fill="#24292f">sergioalvarenga.com | LinkedIn</tspan></text>
+</g>
+</svg>
